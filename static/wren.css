@@ -1,0 +1,5 @@
+:root {
+    --output-background: url('/static/images/testo-stand.svg');
+    --output-background-size: 130%;
+    --output-background-position: 50% 30%;
+}

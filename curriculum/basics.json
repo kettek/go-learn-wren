@@ -1,0 +1,10 @@
+{
+  "Name": "Basics",
+  "Description": "Basics presents blah blah blah",
+  "Language": "wren",
+  "LanguageExtension": "wren",
+  "Lessons": [
+    "A Tour of Wren",
+    "Basic Math"
+  ]
+}

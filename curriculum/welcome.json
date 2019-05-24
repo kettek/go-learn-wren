@@ -1,0 +1,9 @@
+{
+  "Name": "Welcome",
+  "Description": "Basics presents blah blah blah",
+  "Language": "wren",
+  "LanguageExtension": "wren",
+  "Lessons": [
+    "Hello, Xorld!"
+  ]
+}

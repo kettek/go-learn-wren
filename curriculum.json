@@ -1,0 +1,10 @@
+{
+    "Name": "A Tour of Wren",
+    "Description": "Describe a tour of Wren",
+    "Language": "wren",
+    "LanguageExtension": "wren",
+    "Courses": [
+        "basics",
+        "welcome"
+    ]
+}
